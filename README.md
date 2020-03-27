@@ -1,1 +1,1 @@
-# NN-SM
+# CIFAR-10-Pytorch
